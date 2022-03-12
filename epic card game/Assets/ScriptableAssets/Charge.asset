@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f371231949a3f454ebac2851afe31ec0, type: 3}
+  m_Name: Charge
+  m_EditorClassIdentifier: 
+  displayText: Charge
+  commandsToExecute:
+  - data: 1
+    executeCommand:
+      GuidAssignmentFailed: 0
+      GUID: e27f1c30faa83464dbbd1381883c1dc1
+      TypeNameAndAssembly: Commands.AttackStateCommand, Assembly-CSharp
+      _suppressLogs: 0
+    triggerOnCommand:
+      GuidAssignmentFailed: 0
+      GUID: 
+      TypeNameAndAssembly: 
+      _suppressLogs: 0

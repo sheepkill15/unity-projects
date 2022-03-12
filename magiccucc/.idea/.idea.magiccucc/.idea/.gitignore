@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.magiccucc.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\Unity\magiccucc\.idea\.idea.magiccucc\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
